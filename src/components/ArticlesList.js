@@ -11,7 +11,7 @@ const ArticlesList = ({ articles }) => (
         </Link>
     ))}
     </>
-);
+)
 
 export default ArticlesList;
 
